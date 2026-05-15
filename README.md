@@ -11,6 +11,10 @@
 
 *Yapımcı: [Murat Temiz](https://linkedin.com/in/temizmurat) · [GitHub](https://github.com/muratemiz)*
 
+<br>
+
+![JARVIS Masaüstü](screenshot.png)
+
 </div>
 
 ---
