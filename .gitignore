@@ -1,0 +1,24 @@
+# Hassas dosyalar
+config/api_keys.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Loglar
+*.log
+
+# IDE
+.vscode/
+.idea/
+pyrightconfig.json
